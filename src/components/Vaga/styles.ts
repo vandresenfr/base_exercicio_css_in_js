@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const VagaContainer = styled.li`
 border: 1px solid var(--cor-principal);
@@ -42,5 +42,3 @@ border-color: var(--cor-secundaria);
       display: block;
     }
 `
-
-

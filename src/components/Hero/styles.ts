@@ -28,6 +28,8 @@ export const Formulario = styled.form`
 export const FormularioContainer = styled.div`
   position: relative;
   color: #eee;
+  max-width: 100%;
+  margin: 0 auto;
 `
 
 export const Titulo = styled.h2`
